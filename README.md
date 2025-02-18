@@ -1,6 +1,6 @@
 # Bash Commands Cheatsheet
 
-> A comprehensive reference for common Bash commands on Linux systems
+> Essential bash commands. If this repo helped you in any way, consider giving it a star ⭐
 
 ## Table of Contents
 - [Basic Command Structure](#basic-command-structure)
